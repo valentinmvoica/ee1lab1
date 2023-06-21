@@ -23,7 +23,7 @@ namespace ee1lab1
             }
             else 
             {
-                Console.WriteLine(14 * x - 7);
+                Console.WriteLine(14 * x - 5);
             }
         }
     }
